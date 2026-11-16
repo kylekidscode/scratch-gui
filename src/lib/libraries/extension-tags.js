@@ -13,6 +13,7 @@ export default [
     {tag: 'gaia', intlLabel: 'GaiaMod'},
     {tag: 'tw', intlLabel: 'TurboWarp'},
     {tag: 'penguinMod, intlLabel: 'PenguinMod},
+    {tag: 'categoryexpansion', intlLabel: categoryexpansion },
     {tag: 'other', intlLabel: 'Other Scratch Mods'},
     {tag: 'preload', intlLabel: 'Preloads'},
 	{type: 'divider'},
@@ -21,7 +22,7 @@ export default [
     {tag: 'new', intlLabel: 'New!'},
 	{tag: 'comingsoon', intlLabel: 'Coming Soon'},
 	{tag: 'disabled', intlLabel: 'Disabled'},
-	{type: 'divider'},
     {tag: 'collections', intlLabel: 'Collections'}
+	{type: 'divider'},
 
 ];
