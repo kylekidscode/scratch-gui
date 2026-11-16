@@ -1235,8 +1235,8 @@ const menuItems = [
         description:'Blocks for modifying project data and settings from PenguinMod itself.',
         collaborator: 'PenguinMod',
         tags: ['other', 'preload'],
-		featured: true,
-        incompatibleWithScratch: false
+		featured: false,
+        incompatibleWithScratch: true
     },
 	 {
         name: 'Prism',
