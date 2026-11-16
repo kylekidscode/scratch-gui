@@ -1323,7 +1323,7 @@ const menuItems = [
         iconURL: require('../extensions/potentiamod/vm_library.svg'),
         description: 'Tons of extensions converted from built-ins.\n\nClick on an extension to add it to your project.',
         collaborator: 'Listed in the site',
-        tags: ['potentia'],
+        tags: ['collections'],
         featured: true
     },
     {
@@ -1397,19 +1397,19 @@ const gallerySourceDisplay = {
         name: 'PotentiaMod Extension Gallery',
         href: 'https://potentiamod.github.io/pot-extensions/',
         iconURL: require('../extensions/gallery/potentiamod.svg'),
-        tag: 'potentia'
+        tag: 'collections'
     },
 	 gaiamod: {
         name: 'GaiaMod Extension Gallery',
         href: 'https://gaiawindwave90.github.io/gm-extensions/',
         iconURL: require('../extensions/gallery/gaiamod.png'),
-        tag: 'gaia'
+        tag: 'collections'
     },
     turbowarp: {
         name: 'TurboWarp Extension Gallery',
         href: 'https://extensions.turbowarp.org/',
         iconURL: require('../extensions/gallery/turbowarp.svg'),
-        tag: 'tw'
+        tag: 'collections'
     }
 };
 
