@@ -1236,7 +1236,7 @@ const menuItems = [
         collaborator: 'PenguinMod',
         tags: ['other', 'preload'],
 		featured: true,
-        incompatibleWithScratch: true
+        incompatibleWithScratch: false
     },
 	 {
         name: 'Prism',
