@@ -12,6 +12,7 @@ export default [
     {tag: 'potentia', intlLabel: 'PotentiaMod'},
     {tag: 'gaia', intlLabel: 'GaiaMod'},
     {tag: 'tw', intlLabel: 'TurboWarp'},
+    {tag: 'penguinMod, intlLabel: 'PenguinMod},
     {tag: 'other', intlLabel: 'Other Scratch Mods'},
     {tag: 'preload', intlLabel: 'Preloads'},
 	{type: 'divider'},
