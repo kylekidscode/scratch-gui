@@ -21,4 +21,6 @@ export default [
 	{tag: 'comingsoon', intlLabel: 'Coming Soon'},
 	{tag: 'disabled', intlLabel: 'Disabled'},
 	{type: 'divider'},
+    {tag: 'collections', intlLabel: 'Collections'}
+
 ];
