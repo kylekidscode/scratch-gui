@@ -1226,18 +1226,6 @@ const menuItems = [
         incompatibleWithScratch: true
     },
 	//PenguinMod Preloads
-	{
-        name: 'PenguinMod Runtime',
-        extensionId: 'jgRuntime',
-        iconURL: require('../extensions/penguinmod/extensions/runtime.svg'),
-		insetIconURL: require('../extensions/icons/penguinmod.svg'),
-		customInsetColor: '#00c3ff',
-        description:'Blocks for modifying project data and settings from PenguinMod itself.',
-        collaborator: 'PenguinMod',
-        tags: ['other', 'preload'],
-		featured: false,
-        incompatibleWithScratch: true
-    },
 	 {
         name: 'Prism',
         extensionId: 'jgPrism',
