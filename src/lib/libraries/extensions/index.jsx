@@ -1419,7 +1419,7 @@ const requestedCommunityExtensions = [
     { name: "Date Format", extensionId: "https://extensions.penguinmod.com/extensions/ddededodediamante/dateFormatV2.js", iconURL: require('../extensions/penguinmod/extensions/date_format.png'), tags: ["penguinmod", "datamgmt"], description: "Manage, format and compare dates.", featured: true },
     { name: "Device Motion", extensionId: "https://extensions.penguinmod.com/extensions/gaimerI17/DeviceMotion.js", iconURL: require('../extensions/penguinmod/extensions/device_motion.png'), tags: ["penguinmod", "hardware"], description: "Use Device Motion API to get rotation or movement of the device.", featured: true },
     { name: "MIDI Controller", extensionId: "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/MIDI.js", iconURL: require('../extensions/penguinmod/extensions/midi.png'), tags: ["penguinmod", "hardware"], description: "Use a MIDI keyboard to interact with projects!", featured: true },
-	{ name: "Temporary lists", extensionId: "https://picreatoragain.github.io/piextensions.github.io/temporarylists.js", iconURL: require('../extensions/penguinmod/extensions/midi.png'), tags: ["preloads"], description: "Use a MIDI keyboard to interact with projects!", featured: true },
+	{ name: "Temporary lists", extensionId: "https://picreatoragain.github.io/piextensions.github.io/temporarylists.js", iconURL: require('../extensions/penguinmod/extensions/midi.png'), tags: ["preload"], description: "Use a MIDI keyboard to interact with projects!", featured: true },
 ];
 
 // Keep existing entries and skip IDs already present in the library.
